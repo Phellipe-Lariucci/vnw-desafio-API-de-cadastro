@@ -74,7 +74,7 @@ Para permitir que a aplicação interprete corretamente requisições em formato
 
 ```javascript
 app.use(express.json());
-
+```
 Esse recurso faz com que o servidor consiga ler e processar corretamente os dados enviados no corpo das requisições.
 
 ---
@@ -120,4 +120,4 @@ Além disso, ele pode servir como base para evoluções futuras, incluindo:
 ---
 
 💻 Desenvolvido como prática de **Back-End com Node.js e Express**
-```
+
